@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 🔭 I’m currently working on basic js projects.<br> 🌱 I’m currently learning vanilla javascript.<br>👯 I’m looking to collaborate on front end projects.<br> 💬 Ask me about github , webdevelopment or hosting.<br> 📫 How to reach me: +25111913060<br>⚡ Fun fact:Your computer is not crazy😄, debug your code well!.
+ 🌱 I’m currently learning node js.<br>👯 I’m looking to collaborate on front end projects.<br> 💬 Ask me about github , webdevelopment or hosting.<br> 📫 How to reach me: +25111913060<br>⚡ Fun fact:Your computer is not crazy😄, debug your code well!.
 
 
 ## 🌐 Socials:
